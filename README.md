@@ -30,8 +30,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raja497/GROUP-MUSIC-BOT)
 
-Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
+Use [Repl Link](https://replit.com/@warlegend/WarbotZ#main.p) to get pyrogram string session
 
 ### Credits
-- [ABHINAS](https://github.com/ImJanindu): Dev
-- 
+- [ABHINAS](https://github.com/ImJanindu):
